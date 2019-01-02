@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main()
 {
   int i;
@@ -5,5 +6,5 @@ int main()
   {
     printf("Hello Holberton\n");
   }
-  return 0;
+    return 0;
 }
